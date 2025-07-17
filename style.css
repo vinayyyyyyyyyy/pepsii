@@ -1,0 +1,44 @@
+
+body {
+    font-family: cursive; 
+    background-color:pink;
+    color: black;
+    text-align: center;
+    margin: 50;
+    padding: 30;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    margin-top: 20px;
+}
+.pepsi-img {
+    display: block;
+    margin: 20px auto;
+    width: 250px;
+    border-radius: 15px;
+    transition: transform 0.3s;
+}
+.pepsi-img:hover {
+    transform: scale(1.1);
+}
+h3 {
+    color: blue;
+    margin-left: 20px;
+}
+
+h4 {
+    margin-left: 20px;
+}
+
+ul {
+    margin-left: 40px;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 10px;
+}
